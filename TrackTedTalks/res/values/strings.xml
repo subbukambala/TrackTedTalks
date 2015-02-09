@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TedTalks</string>
+    <string name="action_Refresh">Refresh</string>
+    <string name="display_name">Title of the Talk</string>
+    <string name="action_search">Sh</string>
+    <string name="search_hint">Search talks</string>
+</resources>

@@ -1,0 +1,20 @@
+issue: how to run eclipse in administrator mode
+solution:
+run eclipse in admin mode
+sudo ./eclipse
+
+
+issue:CPU/ABI says "No system images installed for this target". You need to install a system images.
+solution:
+In the Android SDK Manager check that you have installed "ARM EABI v7a System Image" (for each Android version from 4.0 and on you have to install a system image to be able to run a virtual device)
+
+
+issue3: Starting emulator for AVD avd PANIC: Could not open: avd - Ubuntu 13.10
+solution:
+http://stackoverflow.com/questions/20866033/starting-emulator-for-avd-avd-panic-could-not-open-avd-ubuntu-13-10
+
+issue4: blank screen appearing...
+due to error: error failed to open framebuffer aborting (look at logcat)
+
+solution:
+http://stackoverflow.com/questions/21845358/android-emulator-cant-be-started
